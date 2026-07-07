@@ -4,3 +4,4 @@ whats up
 
 Testing new modes and new api
 Testing the gemini model for the ai assistant in gitflow
+
